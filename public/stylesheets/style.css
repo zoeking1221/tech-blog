@@ -115,11 +115,11 @@ main {
 }
 
 .delete-post-btn {
-	background-color: #d41414;
+	background-color: #8b0654;
 }
 
 .delete-post-btn:hover {
-	background-color: #ff643d;
+	background-color: #daa5c5;
 }
 
 .post {
@@ -136,15 +136,6 @@ main {
 .edit-link {
 	display: block;
 	margin: -1.5% 0 2% 0;
-}
-
-.upvote-btn {
-	background-color: #197d0f;
-	transition: background-color 0.1s;
-}
-
-.upvote-btn:hover {
-	background-color: #1f9c13;
 }
 
 .comment-form {
